@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: me.ramswaroop.jbot:jbot:4.1.2-rc.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/ramswaroop/jbot/jbot/4.1.2-rc.2/jbot-4.1.2-rc.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/me/ramswaroop/jbot/jbot/4.1.2-rc.2/jbot-4.1.2-rc.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/ramswaroop/jbot/jbot/4.1.2-rc.2/jbot-4.1.2-rc.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
