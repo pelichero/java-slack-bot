@@ -10,7 +10,7 @@ import org.springframework.web.socket.WebSocketSession;
 @RestController
 public class SlackBotResource extends SlackBot {
 
-    @Controller(events = {EventType.DIRECT_MENTION}, pattern = "hello") public void audit(WebSocketSession session, Event event) {
+    @Controller(events = {EventType.MESSAGE}, pattern = "hello") public void audit(WebSocketSession session, Event event) {
 	reply(session, event, new Message("hello"));
     }
 
