@@ -1,3 +1,5 @@
+edu/cvc/javabot/WebConfiguration.class
+edu/cvc/javabot/RestTemplateRequestLoggerInterceptor.class
 edu/cvc/javabot/JavabotApplication.class
 edu/cvc/javabot/SlackBot.class
 edu/cvc/javabot/SlackBotResource.class

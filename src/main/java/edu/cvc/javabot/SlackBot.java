@@ -5,8 +5,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
-public class SlackBot
-		extends Bot {
+public class SlackBot extends Bot {
 
     @Value("${slackBotToken}")
     private String slackToken;
